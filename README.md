@@ -6,9 +6,15 @@ Hatami Ra'is Bukhari (Althemier)
 
 ## [Task 1] Pull the lever, Kronk!
 
+
+
 ## [Task 2] ...I;m supposed to scan with that?
 
-All answer are available with nikto -H
+All answer are available with 
+
+```
+nikto -H
+```
 
 1. First and foremostm what switch do we use to set the target host?
 
